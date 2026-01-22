@@ -484,6 +484,8 @@
   )
 )
 
+#v(25mm)
+
 == Physics Setup
 
 #table(
@@ -620,6 +622,8 @@
   - Order of convergence (p): 
   - GCI: % (target < 5%)
 ]
+
+#v(20mm)
 
 == y⁺ Verification
 
